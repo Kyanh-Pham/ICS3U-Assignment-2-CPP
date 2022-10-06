@@ -9,10 +9,10 @@
 
 int main() {
     // This function calculates volume
-    int length;
-    int width;
-    int height;
-    int volume;
+    double length;
+    double width;
+    double height;
+    double volume;
 
     // Input
     std::cout << "Enter the length (cm): ";
